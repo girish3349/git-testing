@@ -1,3 +1,2 @@
-New content in file 1
-adding second line in file
-Third line in file
+First contents in first file
+Adding second line in first file
